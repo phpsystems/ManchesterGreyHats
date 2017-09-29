@@ -14,11 +14,10 @@ Laptop with a USB A port (USB C must have a hub with USB A connections)
 
 Arduino IDE
 
-Digispark board add-on to Arduino IDE (see https://digistump.com/wiki/digispark/tutorials/connecting for an example although there is Internet access at madlab).
+Digispark board add-on to Arduino IDE (see [here]: https://digistump.com/wiki/digispark/tutorials/connecting for an example).
 
 We have a limited number of Digispark boards - hopefully enough for everyone. If you want to guarantee you can join in, they can be picked up on Amazon for a few quid.
 
-Links:
 [Amazon DigiSpark]: https://www.amazon.co.uk/Digispark-Kickstarter-ATTINY85-Development-Arduino/dp/B01FRZVWYA/ref=sr_1_1?ie=UTF8&qid=1504185874&sr=8-1&keywords=digispark
 [Workshop Slides]: http://www.manchestergreyhats.co.uk/files/when_usb_devices_attack/whenUSBDevicesAttack-Slides-MGH.pdf
 [Workbook]: http://www.manchestergreyhats.co.uk/files/when_usb_devices_attack/whenUSBDevicesAttack-Workbook-MGH.pdf
