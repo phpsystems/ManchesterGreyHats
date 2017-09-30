@@ -10,7 +10,7 @@ title: Manchester Grey Hats
 email: jay@manchestergreyhats.co.uk
 description: Manchester Grey Hats
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://manchestergreyhats.co.uk" # the base hostname & protocol for your site
+url: "http://blog.manchestergreyhats.co.uk" # the base hostname & protocol for your site
 twitter_username: mcrgreyhats
 github_username: DigitalInterruption
 
