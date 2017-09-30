@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "When USB Devices Attack"
-date:   2017-07-23 18:13:01 +0100
+date:   2017-09-23 18:13:01 +0100
 categories: workshop
 ---
 USB devices have been with us now for over 20 years. They have posed a security risk to organisations, which is not always as understood as well as it could be. This workshop will look at USB devices and how they work, including practical exercises in making your own USB keyboard perform tasks on your behalf.
