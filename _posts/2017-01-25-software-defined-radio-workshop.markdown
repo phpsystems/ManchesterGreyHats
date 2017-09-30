@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "When USB Devices Attack"
+title:  "Software Defined Radio Workshop"
 date:   2017-01-25 18:13:01 +0100
 categories: workshop
 ---
