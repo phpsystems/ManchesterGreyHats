@@ -1,0 +1,13 @@
+---
+layout: default
+title:  "Web Application Hacking Workshop"
+date:   2017-08-23 18:13:01 +0100
+categories: workshop web application
+---
+In this workshop, we'll look at the common vulnerabilities found in web applications such as XSS, SQL Injection, CSRF etc and learn how to discover and exploit them.
+
+To join in with the exercises, you'll need a laptop with a web browser, [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project), and Hackazon running inside a [VM](https://github.com/rapid7/hackazon). 
+
+This workshop is aimed at beginners so if you're already familiar with web app security, you may not get a huge amount from this (although we'd love for you to come along anyway!) 
+
+[Slides](http://www.manchestergreyhats.co.uk/files/HackingWebApps-MGH.pdf)
