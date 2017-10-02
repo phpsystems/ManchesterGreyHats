@@ -10,4 +10,4 @@ To join in with the exercises, you'll need a laptop with a web browser, [ZAP](ht
 
 This workshop is aimed at beginners so if you're already familiar with web app security, you may not get a huge amount from this (although we'd love for you to come along anyway!) 
 
-[Slides](http://blog.manchestergreyhats.co.uk/files/HackingWebApps-MGH.pdf)
+[Slides](/files/HackingWebApps-MGH.pdf)
