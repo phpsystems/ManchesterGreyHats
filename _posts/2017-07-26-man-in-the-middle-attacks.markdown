@@ -11,4 +11,4 @@ the attacks easier.
 
 For those new to MitM attacks, this is a very powerful technique used to intercept and modify network traffic (which is why encryption is so important!).
 
-[Slides](http://www.manchestergreyhats.co.uk/files/mitm-talk.pdf.pdf)
+[Slides](http://blog.manchestergreyhats.co.uk/files/mitm-talk.pdf)
