@@ -4,6 +4,9 @@ title:  "When USB Devices Attack"
 date:   2017-09-23 18:13:01 +0100
 categories: workshop
 ---
+
+Presented by: Tim
+
 USB devices have been with us now for over 20 years. They have posed a security risk to organisations, which is not always as understood as well as it could be. This workshop will look at USB devices and how they work, including practical exercises in making your own USB keyboard perform tasks on your behalf.
 
 The workshop doesn't assume any prior knowledge of programming, but a background in C and/or powershell would be useful.
